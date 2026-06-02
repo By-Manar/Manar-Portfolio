@@ -106,19 +106,7 @@ body {
   border-color: #a78bfa;
 }
 
-.hero-card::before {
-  content: "CODE • DESIGN • WEB";
-  position: absolute;
-  top: -14px;
-  left: 28px;
-  background: #7c3aed;
-  color: white;
-  font-size: 12px;
-  font-weight: 900;
-  padding: 8px 14px;
-  border-radius: 999px;
-  letter-spacing: 1px;
-}
+
 
 .profile-img {
   width: 210px;
